@@ -5,5 +5,5 @@ we build a web application to connect and hire Music Proffesionals
 # MusicSpace
 we build a web application to connect and hire Music Proffesionals.
 
-## For Further detailshttps://raunak222.github.io/MusicSpace/
+## For Further details https://raunak222.github.io/MusicSpace/
 
